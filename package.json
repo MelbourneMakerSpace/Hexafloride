@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "get-user-media-promise": "^1.1.4",
+    "http-server": "^0.12.3",
     "microphone-stream": "^5.0.1"
   },
   "devDependencies": {
